@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Cavalcade - Milo
 
-You can use the [editor on GitHub](https://github.com/nzguevin/cavalcade.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Tracklist
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[1. Geometry and Theology](GaT.md)
 
-### Markdown
+[2. Sophistry and Illusion (ft. Nocando)](SaI.md)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[3. Red Oleanders (ft. Busdriver)](RO.md)
 
-```markdown
-Syntax highlighted code block
+[4. Besos](Besos.md)
 
-# Header 1
-## Header 2
-### Header 3
+[5. Ba'al Chiliagon Swords (ft. YC the Cynic)](BCS.md)
 
-- Bulleted
-- List
+[6. I Am Am](IAA.md)
 
-1. Numbered
-2. List
+[7. Ecclesiastes](Ecclesiastes.md)
 
-**Bold** and _Italic_ and `Code` text
+> "In February, my family had (what we thought to be) a cancer scare with my Grandfather. There were sudden, dramatic, startling signs that came entirely out of 'nowhere,' insofar as we were all ignorant of the day-to-day life of this old fellow we all look up to and admire. Unmoored by the potential loss of our family's patriarch, I watched as my mother, uncle, et al, began to slowly unravel. My Grandfather, like most of those in the category, possesses a sort of dreamlike emperor-title and provides my clan with our moral, spiritual, and philosophical guidance. He is the village sage — the man with impeccable sight who is capable of staring into the abyss. This was my attempt at an ode. His favorite band is America. Each song on this tape finds inspiration from that starting point." -Milo
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nzguevin/cavalcade.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
